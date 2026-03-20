@@ -28,8 +28,3 @@ La implementación de una interfaz basada en el scrollytelling es también uno d
 Sin embargo, la experiencia de usuario presenta desafíos técnicos de adaptabilidad. El reportaje parece estar optimizado exclusivamente para una visualización a pantalla completa en monitores de dimensiones específicas; esto provoca que, en ventanas de navegación más pequeñas o con zoom, ciertos elementos visuales críticos se vean interrumpidos o 'cortados' por los bordes del navegador.
 
 A esto se suma un problema de jerarquía visual y superposición: al mantener los bloques de texto anclados a un costado de la pantalla, estos suelen solaparse con las gráficas del fondo. Esta colisión de capas no solo dificulta la lectura del texto en ciertos tramos, sino que llega a ocultar puntos de datos esenciales, rompiendo la sincronía entre lo que se explica y lo que se visualiza.
-
-<p align="center">
-  <img src="imgs/interfaz.gif" alt="Video corto de la interfaz de la webstory" />
-</p>
-
